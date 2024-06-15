@@ -1,0 +1,15 @@
+/*altura personalizada para el input de color*/
+.form-control-personalizado {
+    height: 45px;
+}
+
+/* Limitando el ancho del contendor al mostrar datos de concursantes*/
+.max-width-800{
+    max-width: 800px;
+}
+
+/* Para evitar el desbordamiento de texto */
+.texto-largo{
+   word-break: break-all;
+   word-break: break-word;
+}
